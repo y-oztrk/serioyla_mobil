@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+
+        android:id="@+id/home"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Vitrin"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        app:cnb_backgroundColor="#ff785b"
+        />
+
+    <item
+        android:id="@+id/activity"
+        android:icon="@android:drawable/btn_star"
+        android:title="Hareketler"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        app:cnb_backgroundColor="#ff785b"/>
+    <item
+        android:id="@+id/favorites"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="Keşfet"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        app:cnb_backgroundColor="#ff785b" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@android:drawable/ic_dialog_alert"
+        android:title="Ayarlar"
+        app:cnb_iconColor="#fff"
+        app:cnb_textColor="#fff"
+        app:cnb_backgroundColor="#ff785b"/>
+</menu>
+
+
+
+
+
+
